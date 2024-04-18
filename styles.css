@@ -21,6 +21,8 @@ textarea {
     width: 600px;
     height: 400px;
     resize: none;
+    overflow: auto; 
+
 }
 button {
     padding: 10px 20px;
